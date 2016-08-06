@@ -13,7 +13,7 @@ import json
 
 import requests
 
-API_URI_BASE = 'api/v2'
+API_URI_BASE = 'api/v3'
 API_CONTENT_TYPE = 'application/json'
 
 
